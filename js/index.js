@@ -1,5 +1,5 @@
 /*
-  removes false boolean from array.  needs modificatoin and then can be useable.
+  removes false boolean from array.  needs modification and then can be useable.
 */
 
 function bouncer(arr) {
